@@ -17,7 +17,7 @@ To add the dependency to Maven:
 </dependency>
 ```
 
-You can find the latest version number on [Nexus](https://nexus.brandwatch.com/index.html#nexus-search;quick~mixpanel-client).
+You can find the latest version number on the releases page.
 
 
 ```java
